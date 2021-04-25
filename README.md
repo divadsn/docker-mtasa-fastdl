@@ -1,2 +1,2 @@
 # docker-mtasa-fastdl
-A NGINX web server pre-configured to be used as FastDL for Multi Theft Auto.
+NGINX web server, pre-configured to be used as FastDL for MTA:SA.
