@@ -1,4 +1,4 @@
-FROM nginx:1.19-alpine
+FROM nginx:1.23.4-alpine
 LABEL maintainer="David Sn <divad.nnamtdeis@gmail.com>"
 
 ADD nginx.conf /etc/nginx/nginx.conf
